@@ -1,11 +1,11 @@
 
 # Titre du Module
 
-Equations de la physique et modélisation multi-échelles
+Modélisation de phénomènes physiques
 
 # Objectifs du Module
 
-TODO
+L'objectif de ce module est d'initier les participants à la modélisation de différents phénomènes physiques. Ceci inclut la mécanique des fluides (turbulence, ...) et la physique statistique et particulaire. 
 
 # Contenu du Module
 

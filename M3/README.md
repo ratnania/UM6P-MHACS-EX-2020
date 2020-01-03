@@ -1,7 +1,7 @@
 
 # Titre du Module
 
-Calcul scientifique haute performance et traitement de données
+Algorithmique, Programmation et Architectures
 
 # Objectifs du Module
 
@@ -11,9 +11,13 @@ TODO
 
 | Chapitre | Durée | Niveau |
 |---|---|---|
-| Systèmes d’équations et méthodes de résolution | h | I |
-| Algorithmique et Programmation orientée objet     | h | I |
-| Complexité, Optimisation de code et Calcul parallèle | h | II |
-| Programmation C, C++, et Clusters de Calcul           | h | I |
-| Cloud Computing                                       | h | I |
-| Python, Visualisation, gestion de versions (SVN, GIT) | h | II |
+| Rappel des notions de base en algorithmique | 4h | I |
+| Exemples d'algorithmes pour les sciences de données | 4h | I |
+| Fondements de la programmation orientée objet (OO) | 8h | I |
+| Apprentissage par la Pratique de la programmation OO en Python (I) | 6h | I |
+| Apprentissage par la Pratique de la programmation OO en Python (II) | 6h | II |
+| Fondements de la programmation fonctionnelle (FP) | 1h | I |
+| Apprentissage par la Pratique de la programmation fonctionnelle en Python | 1h | I |
+| Complexité, optimisation de code et vectorisation | 4h | I |
+| Informatique répartie, Calcul parallèle | 2h | I |
+| Etude de cas pratiques: Architectures IT, Plateforme(s) Cloud-Native, Plateforme(s) AI/ML | 4h | I |

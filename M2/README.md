@@ -1,7 +1,7 @@
 
 # Titre du Module
 
-Méthodes numériques, performances et incertitudes
+Mathématiques pour la modélisation I 
 
 # Objectifs du Module
 
@@ -11,6 +11,6 @@ TODO
 
 | Chapitre | Durée | Niveau |
 |---|---|---|
-| Méthodes Eléments-Volumes finis | h | I |
+| Mathématiques des milieux continus | h | I |
 | Structures de Données et Calcul | h | I |
 | Aspects stochastiques et incertitudes | h | II |

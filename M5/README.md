@@ -1,7 +1,7 @@
 
 # Titre du Module
 
-Méthodes numériques, performances et incertitudes
+Mathématiques pour la modélisation II
 
 # Objectifs du Module
 
