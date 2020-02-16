@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ratnania/UM6P-MHACS-EX-2020/master?urlpath=M3%2Fcodes)
-
 # Titre du Module
 
 Algorithmique, Programmation et Architectures
