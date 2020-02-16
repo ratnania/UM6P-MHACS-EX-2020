@@ -1,12 +1,11 @@
-### Step 00: Your first Program in Python
+# Contents
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ratnania/UM6P-MHACS-EX-2020/master?filepath=M3%2Fcodes%2FStep_00.ipynb)
+[Your first Program in Python](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_00.ipynb)
 
-### Step 01: Native DataTypes
+[Native DataTypes](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_01.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ratnania/UM6P-MHACS-EX-2020/master?filepath=M3%2Fcodes%2FStep_01.ipynb)
+[Comprehensions](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_02.ipynb)
 
-### Step 02: Comprehensions
+[Strings](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_03.ipynb)
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ratnania/UM6P-MHACS-EX-2020/master?filepath=M3%2Fcodes%2FStep_02.ipynb)
-
+[Classes and Iterators](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_04.ipynb)
