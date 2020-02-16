@@ -7,7 +7,7 @@
         src: url('http://mirrors.ctan.org/fonts/cm-unicode/fonts/otf/cmunss.otf');
     }
     div.cell{
-        width:800px;
+        width:600px;
         margin-left:16% !important;
         margin-right:auto;
     }
@@ -32,7 +32,7 @@
         font-family: 'Alegreya Sans',Computer Modern, "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
         line-height: 135%;
         font-size: 120%;
-        width:800px;
+        width:600px;
         margin-left:auto;
         margin-right:auto;
     }
