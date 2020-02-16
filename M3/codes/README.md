@@ -9,3 +9,8 @@
 [3. Strings](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_03.ipynb)
 
 [4. Classes and Iterators](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_04.ipynb)
+
+# Practice
+
+[A. Exercises](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Exercises.ipynb)
+
