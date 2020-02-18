@@ -1,5 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ratnania/UM6P-MHACS-EX-2020/tree/master/M3/codes/master)
-
 # General remarks
 
 If you want to use these notebooks on your local machine, you will need to install the follwoing requirements first. In your terminal, run
