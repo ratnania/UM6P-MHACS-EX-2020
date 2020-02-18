@@ -10,7 +10,9 @@
 
 [4. Classes and Iterators](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_04.ipynb)
 
-[5. The Standard Library](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_05.ipynb)
+[5. Hands on Numpy, Pandas, Matplotlib](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_05.ipynb)
+
+[6. The Standard Library](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Step_06.ipynb)
 
 
 # Practice
