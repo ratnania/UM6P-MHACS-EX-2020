@@ -17,3 +17,7 @@
 
 [A. Exercises](https://nbviewer.jupyter.org/github/ratnania/UM6P-MHACS-EX-2020/blob/master/M3/codes/Exercises.ipynb)
 
+# TODO
+
+* add a section on **Tuple** in Step_01
+
